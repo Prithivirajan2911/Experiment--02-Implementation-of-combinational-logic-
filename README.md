@@ -21,13 +21,11 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ## Procedure
 ## Program:
-/*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
 Developed by: PRITHIVIRAJAN V
-
 RegisterNumber:  23003859
-*/
+
 ```
 module Kmap(A,B,C,D,,F1);
 input A,B,C,D;
