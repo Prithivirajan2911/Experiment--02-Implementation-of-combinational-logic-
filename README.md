@@ -26,6 +26,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: PRITHIVIRAJAN V
 RegisterNumber:  23003859
 */
+```
 module Kmap(A,B,C,D,,F1);
 input A,B,C,D;
 output F1;
@@ -41,7 +42,8 @@ assign y=Abar&B&C&D;
 assign z=B&Cbar&D;
 assign F1=v|w|x|y|z;
 endmodule
- 
+```
+
 ## RTL realization
 ![image](https://github.com/Prithivirajan2911/Experiment--02-Implementation-of-combinational-logic-/assets/147020085/1ce65af6-356f-4119-88f3-d4f354dd9a8f)
 
